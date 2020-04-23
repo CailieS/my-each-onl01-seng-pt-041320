@@ -1,4 +1,5 @@
 def my_each(names)
+  proc.
   if block_given?
   index = 1
   while index is <= 3
