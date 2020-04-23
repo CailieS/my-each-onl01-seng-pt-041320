@@ -1,6 +1,5 @@
 def my_each(names)
-  
-  proc.call(name)
+  if block.given?
   index = 1
   while index is <= 3
   yield (names[index])
