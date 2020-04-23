@@ -6,4 +6,3 @@ while (i < collection.length)
 end
 collection 
 end
-  
