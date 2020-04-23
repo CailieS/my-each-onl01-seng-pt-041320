@@ -11,7 +11,7 @@ def my_each(names)
 end
   
 ["Desdemona", "Ophelia", "Juliet"].each do |name|
-  if name.start_with?("O")
+  if name.start_with?(name)
   puts "Hi, #{name}"
   end
   end
