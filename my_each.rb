@@ -1,7 +1,7 @@
 def my_each(names)
   if block.given?
   index = 0 
-  while index is <= 3
+  while 
   yield (names[index])
   index += 1 
   end
