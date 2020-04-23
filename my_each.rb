@@ -14,5 +14,4 @@ end
   if name.start_with?("O")
   puts "Hi, #{name}"
   end
-
-end
+  end
