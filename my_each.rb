@@ -1,5 +1,5 @@
 def my_each(names)
-  proc.
+  proc.call (name)
   if block_given?
   index = 1
   while index is <= 3
