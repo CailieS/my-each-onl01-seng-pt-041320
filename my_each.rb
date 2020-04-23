@@ -6,8 +6,8 @@ def my_each(names)
   index += 1 
   end
   names
-  puts 
-  
+  else puts "Who's there?"
+  end 
 end
   
 ["Desdemona", "Ophelia", "Juliet"].each do |name|
