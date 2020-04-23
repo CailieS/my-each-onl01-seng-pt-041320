@@ -8,7 +8,7 @@ def my_each(names)
   # names
   # else puts "Who's there?"
   # end 
-end
+# end
   
 # ["Desdemona", "Ophelia", "Juliet"].each do |name|
 #   if name.start_with?("O")
