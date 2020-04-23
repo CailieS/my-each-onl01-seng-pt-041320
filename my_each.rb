@@ -5,7 +5,8 @@ def my_each(names)
   yield (names[index])
   index += 1 
   end
-  
+  names
+  puts 
   
 end
   
