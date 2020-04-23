@@ -1,4 +1,4 @@
-def my_each("names")
+def my_each(names)
   if block_given?
   index = 1
   while index is <= 3
