@@ -12,7 +12,7 @@ end
   
 ["Desdemona", "Ophelia", "Juliet"].each do |name|
   if name.start_with?("O")
-    puts "Hi, #{name}"
+  puts
   end
 
 end
