@@ -3,7 +3,7 @@ i = 0
 while (i < collection.length)
   puts collection[i].to_s + "X"
   i += 1
-  yield 
+  yield collection
 end
 end
   
