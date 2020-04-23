@@ -1,5 +1,4 @@
 def my_each(names)
-  proc.call (name)
   if block_given?
   proc.call(name)
   index = 1
