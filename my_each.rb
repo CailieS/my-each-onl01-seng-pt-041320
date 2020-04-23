@@ -12,5 +12,4 @@ end
   
 ["Desdemona", "Ophelia", "Juliet"].each do |name|
   
-  end
 end
